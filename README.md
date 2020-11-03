@@ -12,3 +12,7 @@ pip install -r requirements.txt
 #### threading
 
 https://realpython.com/intro-to-python-threading/
+
+
+#### MULTITHREADING - PRODUCER AND CONSUMER WITH QUEU
+https://www.bogotobogo.com/python/Multithread/python_multithreading_Synchronization_Producer_Consumer_using_Queue.php
