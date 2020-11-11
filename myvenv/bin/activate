@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/Users/h/Desktop/multiThread/myvenv"
+VIRTUAL_ENV="/Users/h/Desktop/python-multi-thread/myvenv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
